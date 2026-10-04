@@ -1,0 +1,17 @@
+{
+  "name": "guasam",
+  "owner": {
+    "name": "guasam"
+  },
+  "description": "guasam's Claude Code plugins",
+  "plugins": [
+    {
+      "name": "cc-paste-thumbnails",
+      "source": {
+        "source": "github",
+        "repo": "guasam/cc-paste-thumbnails"
+      },
+      "description": "Shows images pasted into the prompt as thumbnails above it"
+    }
+  ]
+}
