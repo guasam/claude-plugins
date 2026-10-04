@@ -8,8 +8,8 @@
     {
       "name": "cc-paste-thumbnails",
       "source": {
-        "source": "github",
-        "repo": "guasam/cc-paste-thumbnails"
+        "source": "url",
+        "url": "https://github.com/guasam/cc-paste-thumbnails.git"
       },
       "description": "Shows images pasted into the prompt as thumbnails above it"
     }
